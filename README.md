@@ -3,6 +3,9 @@
 ## Overview
 Control Akai Fire from TouchDesigner's CHOP Operator.
 
+## Usage
+See example.toe
+
 ## ToDo
 OLED
 
